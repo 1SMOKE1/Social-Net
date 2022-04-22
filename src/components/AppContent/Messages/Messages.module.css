@@ -1,0 +1,17 @@
+.title{
+  text-transform: uppercase;
+  color: #990fff;
+}
+
+.content{
+  display: flex;
+  padding: 20px;
+}
+
+.userContent,
+.chatContent{
+  display: flex;
+  flex-direction: column;
+  padding: 0 15px;
+}
+

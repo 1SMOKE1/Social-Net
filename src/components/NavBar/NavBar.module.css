@@ -1,0 +1,27 @@
+.nav{
+  grid-area: n;
+  background-color: rgb(84, 52, 228);
+}
+
+/* link */
+
+.link{
+  color: rgb(206, 206, 50);
+  text-decoration: none;
+  transition: all .3s ease;
+}
+
+.link:hover{
+  color: white;
+}
+
+.link:active{
+  color: greenyellow;
+}
+
+.active{
+  color: white;
+  text-decoration: none;
+  transition: all .3s ease;
+}
+

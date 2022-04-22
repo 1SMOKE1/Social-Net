@@ -1,0 +1,14 @@
+.user{
+  display: flex;
+  border-right: 3px solid rgb(84, 52, 228);
+  padding-bottom: 30px;
+  padding-right: 20px;
+  text-decoration: none;
+  color: rgb(206, 138, 50);
+  transition: all .3s ease;
+  font-weight: 700;
+}
+
+.user:hover{
+  color:rgb(84, 52, 228);
+}

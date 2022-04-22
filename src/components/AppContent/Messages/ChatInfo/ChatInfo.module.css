@@ -1,0 +1,19 @@
+.chat{
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.lastMessage .text{
+  color: rgb(230, 109, 204)
+}
+
+.unreadMessages{
+  color: rgb(167, 167, 64);
+}
+
+.unreadMessages .number{
+  color: rgb(190, 108, 30);
+  font-weight: 700;
+}
+
