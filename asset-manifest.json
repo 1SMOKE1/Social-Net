@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Social-Net/static/css/main.22a447af.css",
-    "main.js": "/Social-Net/static/js/main.b27aecb2.js",
+    "main.css": "/Social-Net/static/css/main.e86ceb00.css",
+    "main.js": "/Social-Net/static/js/main.10cd0e23.js",
     "static/media/bg_for_chats.png": "/Social-Net/static/media/bg_for_chats.c42269aef063d3048548.png",
     "static/media/profile_info_bg.jpg": "/Social-Net/static/media/profile_info_bg.7869f24832b77e7d6be6.jpg",
     "static/media/avatar.png": "/Social-Net/static/media/avatar.d566545bd32900a3a587.png",
     "index.html": "/Social-Net/index.html",
-    "main.22a447af.css.map": "/Social-Net/static/css/main.22a447af.css.map",
-    "main.b27aecb2.js.map": "/Social-Net/static/js/main.b27aecb2.js.map"
+    "main.e86ceb00.css.map": "/Social-Net/static/css/main.e86ceb00.css.map",
+    "main.10cd0e23.js.map": "/Social-Net/static/js/main.10cd0e23.js.map"
   },
   "entrypoints": [
-    "static/css/main.22a447af.css",
-    "static/js/main.b27aecb2.js"
+    "static/css/main.e86ceb00.css",
+    "static/js/main.10cd0e23.js"
   ]
 }
