@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Social-Net/static/css/main.7e27eb7e.css",
-    "main.js": "/Social-Net/static/js/main.81ae4b15.js",
+    "main.css": "/Social-Net/static/css/main.f2ba651e.css",
+    "main.js": "/Social-Net/static/js/main.49ffb011.js",
     "static/media/bg_for_chats.png": "/Social-Net/static/media/bg_for_chats.c42269aef063d3048548.png",
     "static/media/profile_info_bg.jpg": "/Social-Net/static/media/profile_info_bg.7869f24832b77e7d6be6.jpg",
+    "static/media/spinner_preloader.gif": "/Social-Net/static/media/spinner_preloader.29181c59a23df5c07450.gif",
     "static/media/avatar.png": "/Social-Net/static/media/avatar.d566545bd32900a3a587.png",
     "index.html": "/Social-Net/index.html",
-    "main.7e27eb7e.css.map": "/Social-Net/static/css/main.7e27eb7e.css.map",
-    "main.81ae4b15.js.map": "/Social-Net/static/js/main.81ae4b15.js.map"
+    "main.f2ba651e.css.map": "/Social-Net/static/css/main.f2ba651e.css.map",
+    "main.49ffb011.js.map": "/Social-Net/static/js/main.49ffb011.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e27eb7e.css",
-    "static/js/main.81ae4b15.js"
+    "static/css/main.f2ba651e.css",
+    "static/js/main.49ffb011.js"
   ]
 }
