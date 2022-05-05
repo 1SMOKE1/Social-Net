@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/Social-Net/static/css/main.f2ba651e.css",
-    "main.js": "/Social-Net/static/js/main.49ffb011.js",
+    "main.css": "/Social-Net/static/css/main.df18586a.css",
+    "main.js": "/Social-Net/static/js/main.33460053.js",
     "static/media/bg_for_chats.png": "/Social-Net/static/media/bg_for_chats.c42269aef063d3048548.png",
     "static/media/profile_info_bg.jpg": "/Social-Net/static/media/profile_info_bg.7869f24832b77e7d6be6.jpg",
+    "static/media/github.png": "/Social-Net/static/media/github.544cd6f7ca0ddb561e4e.png",
+    "static/media/inst.png": "/Social-Net/static/media/inst.a07e23d4f6bf28a60cdb.png",
     "static/media/spinner_preloader.gif": "/Social-Net/static/media/spinner_preloader.29181c59a23df5c07450.gif",
     "static/media/avatar.png": "/Social-Net/static/media/avatar.d566545bd32900a3a587.png",
+    "static/media/unknownUser.jpg": "/Social-Net/static/media/unknownUser.06696a93bc5d617960e2.jpg",
+    "static/media/facebook.svg": "/Social-Net/static/media/facebook.f0391d69645c7323017248ba6ecd7fa8.svg",
     "index.html": "/Social-Net/index.html",
-    "main.f2ba651e.css.map": "/Social-Net/static/css/main.f2ba651e.css.map",
-    "main.49ffb011.js.map": "/Social-Net/static/js/main.49ffb011.js.map"
+    "main.df18586a.css.map": "/Social-Net/static/css/main.df18586a.css.map",
+    "main.33460053.js.map": "/Social-Net/static/js/main.33460053.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2ba651e.css",
-    "static/js/main.49ffb011.js"
+    "static/css/main.df18586a.css",
+    "static/js/main.33460053.js"
   ]
 }
