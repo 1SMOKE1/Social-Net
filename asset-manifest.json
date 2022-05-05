@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Social-Net/static/css/main.df18586a.css",
-    "main.js": "/Social-Net/static/js/main.33460053.js",
+    "main.js": "/Social-Net/static/js/main.4138d523.js",
     "static/media/bg_for_chats.png": "/Social-Net/static/media/bg_for_chats.c42269aef063d3048548.png",
     "static/media/profile_info_bg.jpg": "/Social-Net/static/media/profile_info_bg.7869f24832b77e7d6be6.jpg",
     "static/media/github.png": "/Social-Net/static/media/github.544cd6f7ca0ddb561e4e.png",
@@ -12,10 +12,10 @@
     "static/media/facebook.svg": "/Social-Net/static/media/facebook.f0391d69645c7323017248ba6ecd7fa8.svg",
     "index.html": "/Social-Net/index.html",
     "main.df18586a.css.map": "/Social-Net/static/css/main.df18586a.css.map",
-    "main.33460053.js.map": "/Social-Net/static/js/main.33460053.js.map"
+    "main.4138d523.js.map": "/Social-Net/static/js/main.4138d523.js.map"
   },
   "entrypoints": [
     "static/css/main.df18586a.css",
-    "static/js/main.33460053.js"
+    "static/js/main.4138d523.js"
   ]
 }
